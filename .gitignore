@@ -9,3 +9,6 @@ venv
 # Distribution / packaging
 dist/
 build/
+
+# vscode
+.vscode
